@@ -1,5 +1,6 @@
 # xReg Wiki Big Files
 This repository houses some large files (resampled CT volumes) created as part of the xReg walkthrough.
+The files are most easily accessed via the [releases](../../releases) section.
 
 * All of the non-derived data in the xReg walkthrough was obtained from [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net):
   * Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057. ([link](http://link.springer.com/article/10.1007%2Fs10278-013-9622-7))
